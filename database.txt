@@ -1,0 +1,21 @@
+Idno,Isbn,Title,Author,Purchase_date,Loan_status
+1,9783161484100,Harry Potter and the Philosopher's Stone,J.K. Rowling,1/8/10,0
+2,9783161484102,Lying in Wait,Liz Nugent,1/8/10,0
+3,9783161484100,Harry Potter and the Philosopher's Stone,J.K. Rowling,1/8/10,0
+4,9783161484103,The Break,Marian Keyes,1/8/15,0
+5,9783161484104,All the Light We Cannot See,Anthony Doerr,1/7/16,0
+6,9783161484102,Lying in Wait,Liz Nugent,1/8/14,0
+7,9783161484105,ULYSSES,James Joyce,1/10/12,0
+8,9783161484105,ULYSSES,James Joyce,1/10/12,0
+9,9783161484106,THE GREAT GATSBY,F. Scott Fitzgerald,1/11/16,0
+10,9783161484104,All the Light We Cannot See,Anthony Doerr,1/7/16,0
+11,9783161484107,BRAVE NEW WORLD,Aldous Huxley,1/6/10,0
+12,9783161484108,THE SOUND AND THE FURY,William Faulkner,1/7/11,0
+13,9783161484109,AN AMERICAN TRAGEDY,Theodore Dreiser,1/6/15,0
+14,9783161484100,Harry Potter and the Philosopher's Stone,J.K. Rowling,1/8/10,0
+15,9783161484110,TO THE LIGHTHOUSE,Virginia Woolf,1/6/11,0
+16,9783161484111,THE HEART IS A LONELY HUNTER,Carson McCullers,1/7/12,0
+17,9783161484112,INVISIBLE MAN,Ralph Ellison,1/8/13,0
+18,9783161484113,A PASSAGE TO INDIA,E.M. Forster,1/9/10,0
+19,9783161484114,THE GOOD SOLDIER,Ford Madox Ford,1/10/14,0
+20,9783161484115,A HANDFUL OF DUST,Evelyn Waugh,1/11/12,0
